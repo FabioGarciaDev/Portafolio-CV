@@ -4,4 +4,4 @@ Repositorio del proyecto Portafolio Web Fabio Garcia
 
 ## Proyectos
 
-- [LandingPages de tipo portafolio-CV](https://FabioGarciaDev.github.io/Portafolio-CV)
+- [LandingPages de tipo portafolio-CV](https://FabioGarciaDev.github.io/Portfolio-CV)
