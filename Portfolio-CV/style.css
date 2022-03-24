@@ -390,6 +390,23 @@ p {
   margin: 1 rem auto;
   padding: 0.5rem 0;
 }
+.portfolio-details{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  align-self: center;
+}
+.portfolio-details a{
+margin: auto;
+}
+.portfolio-details svg{
+  height: 3rem;
+  width: 3rem;
+  fill: var(--color-terciario);
+  transition:  0.5s ease ;
+}
+.portfolio-details svg:hover{
+  fill: var(--color-secundario);
+}
 .service-card {
   margin: 1rem auto;
   padding: 1rem;
